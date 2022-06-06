@@ -1,0 +1,15 @@
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\bin\Release\net6.0\Lab9_v10.exe
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\bin\Release\net6.0\Lab9_v10.deps.json
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\bin\Release\net6.0\Lab9_v10.runtimeconfig.json
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\bin\Release\net6.0\Lab9_v10.dll
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\bin\Release\net6.0\Lab9_v10.pdb
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.csproj.AssemblyReference.cache
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.AssemblyInfoInputs.cache
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.AssemblyInfo.cs
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.csproj.CoreCompileInputs.cache
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.dll
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\refint\Lab9_v10.dll
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.pdb
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\Lab9_v10.genruntimeconfig.cache
+C:\Users\alros\Downloads\Лабораторная 4\Лабораторная 4\Ромб\Lab4_Rakhimov_Salavat_Sergeevich\Lab4_Rakhimov_Salavat_Sergeevich\Lab9_v10\obj\Release\net6.0\ref\Lab9_v10.dll
